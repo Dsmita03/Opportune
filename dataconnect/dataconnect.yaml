@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "job-portal"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "job-portal-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
