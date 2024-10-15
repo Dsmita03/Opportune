@@ -12,6 +12,7 @@ This is a full-stack Job Portal application built using the MERN stack (MongoDB,
 - MongoDB for Storage: All job listings, user profiles, and applications are stored in MongoDB.
 
 ## Tech Stack
+
  Frontend:
 
 - React.js
