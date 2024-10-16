@@ -41,3 +41,7 @@ Prerequisites
 - MongoDB Atlas account set up for the database
 - Firebase project configured for authentication (use Firebase SDK)
 - Git for version control
+
+Back-End API 👉🏻 https://opportune.onrender.com
+
+Front End 👉🏻 

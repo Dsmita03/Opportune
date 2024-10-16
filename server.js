@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 import dotenv from 'dotenv'
 import chalk from 'chalk'
 
-dotenv.config({ path: './config.env' });
+dotenv.config({ path: './.env' });
 import app from './app.js';
 
 
