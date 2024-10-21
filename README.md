@@ -44,4 +44,4 @@ Prerequisites
 
 Back-End API 👉🏻 https://opportune.onrender.com
 
-Front End 👉🏻 
+Front End 👉🏻 https://opportune-fe.onrender.com 
