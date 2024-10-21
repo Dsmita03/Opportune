@@ -1,4 +1,4 @@
-import error from "../../Assets/images/error.svg";
+import error from "../../assets/images/error.svg";
 import useStyles from "../../styles/styles";
 
 const Error = () => {
