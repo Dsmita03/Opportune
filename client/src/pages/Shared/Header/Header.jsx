@@ -9,7 +9,7 @@ import {
   IconButton,
 } from "@mui/material";
 import LogoutIcon from "@mui/icons-material/Logout";
-import logo from "../../../Assets/logo/logo.png";
+import logo from "../../../assets/logo/logo.png";
 import { Link } from "react-router-dom";
 import useStyles from "../../../styles/styles";
 import { AuthContext } from "../../../contexts/AuthProvider";

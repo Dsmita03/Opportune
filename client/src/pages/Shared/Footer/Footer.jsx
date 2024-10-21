@@ -1,6 +1,6 @@
 import useStyles from "../../../styles/styles";
 import { CssBaseline } from "@mui/material";
-import logo from "../../../Assets/logo/logo.png";
+import logo from "../../../assets/logo/logo.png";
 import Typography from "@mui/material/Typography";
 import { Link } from "react-router-dom";
 
